@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10a0e7f0-7ad6-481c-899c-0885f199a7cf" name="Changes" comment="chore: initial project">
-      <change afterPath="$PROJECT_DIR$/todo/src/pages/todo-list/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/src/pages/todo-list/useTodoList.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/src/pages/users/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/src/pages/users/types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/src/pages/users/useUsers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/app/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/app/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/app/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/vite.config.ts" afterDir="false" />
-    </list>
+    <list default="true" id="10a0e7f0-7ad6-481c-899c-0885f199a7cf" name="Changes" comment="feat: add pages, routes, shadcn" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +33,9 @@
     &quot;accountId&quot;: &quot;01971f5a-5377-4c60-b817-a7b51a2d9a21&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -92,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744401689377</updated>
-      <workItem from="1744401690422" duration="6975000" />
+      <workItem from="1744401690422" duration="7113000" />
     </task>
     <task id="LOCAL-00001" summary="chore: initial project">
       <option name="closed" value="true" />
@@ -102,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744403413701</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add pages, routes, shadcn">
+      <option name="closed" value="true" />
+      <created>1744413330010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744413330010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add pages, routes, shadcn">
+      <option name="closed" value="true" />
+      <created>1744413382967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744413382967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: initial project" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: initial project" />
+    <MESSAGE value="feat: add pages, routes, shadcn" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add pages, routes, shadcn" />
   </component>
 </project>
