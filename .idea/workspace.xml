@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10a0e7f0-7ad6-481c-899c-0885f199a7cf" name="Changes" comment="feat: add pages, routes, shadcn" />
+    <list default="true" id="10a0e7f0-7ad6-481c-899c-0885f199a7cf" name="Changes" comment="feat: add prettier">
+      <change afterPath="$PROJECT_DIR$/todo/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/app/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/app/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/app/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/todo-list/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/todo-list/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/todo-list/useTodoList.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/todo-list/useTodoList.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/users/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/users/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/users/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/users/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/users/useUsers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/users/useUsers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/vite.config.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,25 +64,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/reps&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\reps\\react-19-todo\\todo\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.utils.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "D:/reps/react-19-todo/todo/node_modules/prettier",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.prettier.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "D:\\reps\\react-19-todo\\todo\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "D:\\reps\\react-19-todo\\todo\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\reps\react-19-todo\todo\src\app" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="prettier" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/todo/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="prettier" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.prettier" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -80,6 +121,8 @@
       <option name="presentableId" value="Default" />
       <updated>1744401689377</updated>
       <workItem from="1744401690422" duration="7113000" />
+      <workItem from="1744413516953" duration="212000" />
+      <workItem from="1744484772230" duration="2199000" />
     </task>
     <task id="LOCAL-00001" summary="chore: initial project">
       <option name="closed" value="true" />
@@ -105,15 +148,28 @@
       <option name="project" value="LOCAL" />
       <updated>1744413382967</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refactor: remove">
+      <option name="closed" value="true" />
+      <created>1744413638338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744413638338</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.prettierignore" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: initial project" />
     <MESSAGE value="feat: add pages, routes, shadcn" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add pages, routes, shadcn" />
+    <MESSAGE value="refactor: remove" />
+    <MESSAGE value="feat: add prettier" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add prettier" />
   </component>
 </project>

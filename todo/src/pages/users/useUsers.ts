@@ -1,21 +1,21 @@
-import {useState} from "react";
-import * as React from "react";
-import {User} from "@/pages/users/types.ts";
+import { useState } from 'react'
+import * as React from 'react'
+import { User } from '@/pages/users/types.ts'
 
 export const useUsers = () => {
-    const [users, setUsers] = useState<User[]>([]);
-    const [email, setEmail] = useState('');
+  const [users, setUsers] = useState<User[]>([])
+  const [email, setEmail] = useState('')
 
-    const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
-        event.preventDefault();
-        setUsers([...users, {id: crypto.randomUUID(), email}]);
-        setEmail('');
-    }
+  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
+    setUsers([...users, { id: crypto.randomUUID(), email }])
+    setEmail('')
+  }
 
-    return {
-        users,
-        email,
-        setEmail,
-        handleSubmit,
-    }
+  return {
+    users,
+    email,
+    setEmail,
+    handleSubmit,
+  }
 }
