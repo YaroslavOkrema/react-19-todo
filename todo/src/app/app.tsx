@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
-import { UsersPage } from 'src/pages/users'
-import { TodoListPage } from 'src/pages/todo-list'
+import { TodoListPage } from '@/pages/todo-list'
+import { UsersPage } from '@/pages/users'
 
 export function App() {
   return (
