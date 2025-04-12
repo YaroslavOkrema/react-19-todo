@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10a0e7f0-7ad6-481c-899c-0885f199a7cf" name="Changes" comment="refactor: refactor">
+      <change afterPath="$PROJECT_DIR$/todo/src/shared/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/types/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/app/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/users/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/users/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/users/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/users/useUsers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/users/useUsers.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YaroslavOkrema&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YaroslavOkrema/react-19-todo.git&quot;,
+    &quot;accountId&quot;: &quot;01971f5a-5377-4c60-b817-a7b51a2d9a21&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2vb6zedhyW8ArfrC3z3kG9I0lE4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.utils.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "D:/reps/react-19-todo/todo/node_modules/prettier",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.prettier.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "D:\\reps\\react-19-todo\\todo\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "D:\\reps\\react-19-todo\\todo\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\reps\react-19-todo\todo\src\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="prettier" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/todo/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="prettier" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.prettier" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a0e7f0-7ad6-481c-899c-0885f199a7cf" name="Changes" comment="" />
+      <created>1744401689377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744401689377</updated>
+      <workItem from="1744401690422" duration="7113000" />
+      <workItem from="1744413516953" duration="212000" />
+      <workItem from="1744484772230" duration="7362000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: initial project">
+      <option name="closed" value="true" />
+      <created>1744403413701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744403413701</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: add pages, routes, shadcn">
+      <option name="closed" value="true" />
+      <created>1744413330010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744413330010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add pages, routes, shadcn">
+      <option name="closed" value="true" />
+      <created>1744413382967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744413382967</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactor: remove">
+      <option name="closed" value="true" />
+      <created>1744413638338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744413638338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: add prettier">
+      <option name="closed" value="true" />
+      <created>1744487069644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744487069644</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor: refactor">
+      <option name="closed" value="true" />
+      <created>1744487283735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744487283735</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.prettierignore" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: initial project" />
+    <MESSAGE value="feat: add pages, routes, shadcn" />
+    <MESSAGE value="refactor: remove" />
+    <MESSAGE value="feat: add prettier" />
+    <MESSAGE value="refactor: refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: refactor" />
+  </component>
+</project>
