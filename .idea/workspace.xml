@@ -4,26 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10a0e7f0-7ad6-481c-899c-0885f199a7cf" name="Changes" comment="feat: add prettier">
-      <change afterPath="$PROJECT_DIR$/todo/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/.prettierrc" afterDir="false" />
+    <list default="true" id="10a0e7f0-7ad6-481c-899c-0885f199a7cf" name="Changes" comment="refactor: refactor">
+      <change afterPath="$PROJECT_DIR$/todo/src/shared/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/types/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/components.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/app/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/app.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/src/app/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/app/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/lib/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/pages/todo-list/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/todo-list/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/pages/todo-list/useTodoList.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/todo-list/useTodoList.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/src/pages/users/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/users/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/pages/users/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/users/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/pages/users/types.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/src/pages/users/useUsers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/pages/users/useUsers.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +110,7 @@
       <updated>1744401689377</updated>
       <workItem from="1744401690422" duration="7113000" />
       <workItem from="1744413516953" duration="212000" />
-      <workItem from="1744484772230" duration="2199000" />
+      <workItem from="1744484772230" duration="7362000" />
     </task>
     <task id="LOCAL-00001" summary="chore: initial project">
       <option name="closed" value="true" />
@@ -156,7 +144,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744413638338</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: add prettier">
+      <option name="closed" value="true" />
+      <created>1744487069644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744487069644</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor: refactor">
+      <option name="closed" value="true" />
+      <created>1744487283735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744487283735</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +174,7 @@
     <MESSAGE value="feat: add pages, routes, shadcn" />
     <MESSAGE value="refactor: remove" />
     <MESSAGE value="feat: add prettier" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add prettier" />
+    <MESSAGE value="refactor: refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: refactor" />
   </component>
 </project>

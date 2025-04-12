@@ -12,10 +12,15 @@ export const useUsers = () => {
     setEmail('')
   }
 
+  const handleDelete = (id: string) => {
+    setUsers(lastUser => lastUser.filter(user => user.id !== id))
+  }
+
   return {
     users,
     email,
     setEmail,
     handleSubmit,
+    handleDelete,
   }
 }
